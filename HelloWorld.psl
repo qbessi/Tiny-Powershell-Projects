@@ -1,5 +1,0 @@
-Function Get-HelloWorld {
-	Return "Hello, World!"
-}
-
-Get-HelloWorld;
