@@ -1,4 +1,5 @@
-Tiny Powershell Projects
+Learn PowerShell Scripting in a Month of Lunches
 
-Based on Tiny Python Projects:
-https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52
+Completed Assignments from the book.
+
+[https://www.manning.com/books/tiny-python-projects?a_aid=youens&a_bid=b6485d52](https://amzn.eu/d/ctF1ljm)
